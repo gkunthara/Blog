@@ -5,11 +5,11 @@ import 'typeface-montserrat'
 import 'typeface-merriweather'
 
 import { rhythm } from '../utils/typography'
-import twitterPic from '../images/Twitter_Logo_Blue.png'
-import githubPic from '../images/GitHub-Mark-120px-plus.png'
-import linkedInPic from '../images/In-2c-94px-TM.png'
-import mailPic from '../images/Mail.png'
-import mediumPic from '../images/Monogram.png'
+import { twitterPic } from '../images/Twitter_Logo_Blue.png'
+import {githubPic} from '../images/GitHub-Mark-120px-plus.png'
+import {linkedInPic} from '../images/In-2c-94px-TM.png'
+import {mailPic} from '../images/Mail.png'
+import {mediumPic} from '../images/Monogram.png'
 
 
 
