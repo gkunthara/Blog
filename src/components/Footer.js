@@ -7,7 +7,7 @@ import 'typeface-merriweather'
 import { rhythm } from '../utils/typography'
 import twitterPic from './Twitter_Logo_Blue.png'
 import githubPic from './GitHub-Mark-120px-plus.png'
-import linkedInPic from './In-2c-94px-TM.png'
+import linkedInPic from './linkedIn.png'
 import mailPic from './Mail.png'
 import mediumPic from './Monogram.png'
 
