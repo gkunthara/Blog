@@ -6,6 +6,17 @@ Wordpress2016.overrideThemeStyles = () => ({
     boxShadow: 'none',
     textDecoration: 'none',
   },
+  'p,h1,h2,h3,h4,h4,li,ul,ol':{
+    fontFamily: 'Avenir Next, sans-serif'
+  },
+  'ul,ol': {
+    marginLeft: 1,
+  },
+  h4: {
+    letterSpacing: 'none',
+    textTransform: 'none',
+  },
+  
 })
 
 delete Wordpress2016.googleFonts
