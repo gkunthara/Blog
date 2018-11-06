@@ -30,20 +30,20 @@ class Template extends React.Component {
           >
           Hi, I'm George Kunthara.
           I just graduated from Gonzaga University with a degree in Computer Science and a business minor in Entrepreneurial Leadership.
-          I will be working at West Monroe Partners in the Fall as a consultant in their customer experience division. 
+          Currently, I work as a consultant at West Monroe Partners in Seattle. 
 
           </h1>
             <h1
             style={headerStyle}
           >
-          I’m really into cryptoassets 😀. 
-          You can find my thoughts and insights on the crypto space below.
+          I'm into stock & crypto trading, front end development, startups, and sports. 
+          You can find my thoughts and insights on these areas below!
           </h1>
 
           <h1
             style={headerStyle}
           >
-          I also enjoy front end development, startups, and sports.
+          
           </h1>
         </div>
         

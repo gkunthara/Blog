@@ -15,8 +15,7 @@ Wordpress2016.overrideThemeStyles = () => ({
   h4: {
     letterSpacing: 'none',
     textTransform: 'none',
-  },
-  
+  }
 })
 
 delete Wordpress2016.googleFonts
