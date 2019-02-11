@@ -7,7 +7,9 @@ Wordpress2016.overrideThemeStyles = () => ({
     textDecoration: 'none',
   },
   'p,h1,h2,h3,h4,h4,li,ul,ol':{
-    fontFamily: 'Avenir Next, sans-serif'
+    fontFamily: 'Merriweather, sans-serif',
+    fontWeight: 300,
+    fontSize:18,
   },
   'ul,ol': {
     marginLeft: 1,

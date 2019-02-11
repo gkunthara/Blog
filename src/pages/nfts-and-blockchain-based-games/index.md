@@ -1,6 +1,6 @@
 ---
 title: NFTs & blockchain-based games
-date: "2018-07-23"
+date: "2018-07"
 ---
 
 The most common use case for NFTs thus far has been integrating them into blockchain-based games like CryptoKitties. However, I think we've all seen this chart showing Cryptokitties usage is down 98.5% since its peak.

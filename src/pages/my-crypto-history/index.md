@@ -1,6 +1,6 @@
 ---
 title: My Crypto History
-date: "2018-11-05"
+date: "2018-11"
 ---
 
 The crypto markets have been pretty boring to watch as of late. They've been surprisingly... stable? In fact, here's a graph of bitcoin vs. the S&P 500 over the last month with bitcoin in blue and the S&P in black.

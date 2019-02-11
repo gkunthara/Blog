@@ -21,8 +21,8 @@ class BlogIndex extends React.Component {
               <h3
                 style={{
                   marginBottom: rhythm(1 / 4),
-                  fontFamily: 'Avenir Next, sans-serif',
-                  fontWeight: "600"
+                  fontFamily: 'Merriweather, sans-serif',
+                  fontWeight: "400"
                 }}
               >
                 <Link style={{ boxShadow: 'none', color: "#009FFF" }} to={node.fields.slug}>
@@ -31,14 +31,14 @@ class BlogIndex extends React.Component {
               </h3>
               <small
               style={{
-                fontFamily: 'Avenir Next, sans-serif',
-                fontWeight: "300",
+                fontFamily: 'Merriweather, sans-serif',
+                fontWeight: "200",
                 color: "#333"
               }}>
               {node.frontmatter.date}</small>
               <p style={{
-                fontFamily: 'Avenir Next, sans-serif',
-                fontWeight: "400",
+                fontFamily: 'Merriweather, sans-serif',
+                fontWeight: "300",
                 color: "#333"
               }} dangerouslySetInnerHTML={{ __html: node.excerpt }} />
             </div>
@@ -67,7 +67,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "MMMM YYYY")
             title
           }
         }

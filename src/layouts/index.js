@@ -8,8 +8,8 @@ class Template extends React.Component {
     const { location, children } = this.props
     let header
     let headerStyle = {
-      fontFamily: 'Avenir Next, sans-serif',
-      fontSize: 20,
+      fontFamily: 'Merriweather, sans-serif',
+      fontSize: 18,
       marginBottom: rhythm(1.5),
       marginTop: 0,
       fontWeight: 300,
@@ -29,15 +29,15 @@ class Template extends React.Component {
             style={headerStyle}
           >
           Hi, I'm George Kunthara.
-          I just graduated from Gonzaga University with a degree in Computer Science and a business minor in Entrepreneurial Leadership.
-          Currently, I work as a consultant at West Monroe Partners in Seattle. 
+          I recently graduated from Gonzaga University with a degree in Computer Science and a business minor in Entrepreneurial Leadership.
+          Currently, I work as a consultant for West Monroe Partners in Seattle. 
 
           </h1>
             <h1
             style={headerStyle}
           >
-          I'm into stock & crypto trading, front end development, startups, and sports. 
-          You can find my thoughts and insights on these areas below!
+          I'm into stock & crypto trading, startups, and sports. 
+          You can find my thoughts on these areas below!
           </h1>
 
           <h1
@@ -53,7 +53,7 @@ class Template extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: 'Avenir Next, sans-serif',
+            fontFamily: 'Merriweather, sans-serif',
             marginTop: 0,
             marginBottom: rhythm(-1),
             textDecoration: "underline"
