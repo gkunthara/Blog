@@ -35,7 +35,7 @@ class Template extends React.Component {
             <h1
             style={headerStyle}
           >
-          I'm into stock & crypto investing, startups, and sports. 
+          I'm into investing, startups, and sports. 
           You can find my thoughts on these areas below!
           </h1>
 
