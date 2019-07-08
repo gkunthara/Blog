@@ -29,14 +29,13 @@ class Template extends React.Component {
             style={headerStyle}
           >
           Hi, I'm George Kunthara.
-          I recently graduated from Gonzaga University with a degree in Computer Science and a business minor in Entrepreneurial Leadership.
           Currently, I work as a consultant for West Monroe Partners in Seattle. 
-
+          I graduated in May 2018 from Gonzaga University with a degree in Computer Science and a business minor in Entrepreneurial Leadership.
           </h1>
             <h1
             style={headerStyle}
           >
-          I'm into stock & crypto trading, startups, and sports. 
+          I'm into stock & crypto investing, startups, and sports. 
           You can find my thoughts on these areas below!
           </h1>
 
