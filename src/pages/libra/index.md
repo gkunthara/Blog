@@ -45,7 +45,7 @@ The Bitcoin narrative has changed throughout the years. Now, Bitcoin is seen as 
 
 ### Libra is the new Apple Watch
 
-This might be a stretch comparison, but in a way Libra could be like the Apple Watch. I can't remember where, but I read an article on how the Swiss watch industry is currently going through a rejuvenation period. Most analysts thought that the Apple Watch was going to kill off the Swiss watch industry. This was true, until recently a switch in behavior occurred. Overall, more and more people were buying watches mainly because of the Apple Watch. These people started with the Apple Watch, realized they loved having a nice watch, and changed to a luxury Swiss watch. 
+This might be a stretch comparison, but in a way Libra could be like the Apple Watch. I can't remember where, but I read an article on how the Swiss watch industry is currently going through a rejuvenation period. Most analysts thought that the Apple Watch was going to kill off the Swiss watch industry. This was true, until recently a switch in behavior. Overall, more and more people were buying watches mainly because of the Apple Watch. These people started with the Apple Watch, realized they loved having a nice watch, and changed to a luxury Swiss watch. 
 
 Apple Watch → Luxury Swiss Watch could be analogous to Libra → Bitcoin. More and more people exposed to cryptocurrencies like Libra may find value in bitcoin as well.
 
