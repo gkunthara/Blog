@@ -38,6 +38,7 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-twitter`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
@@ -53,11 +54,5 @@ module.exports = {
         pathToConfigModule: 'src/utils/typography',
       },
     },
-    {
-      resolve: "gatsby-transformer-remark",
-      options: {
-        plugins: ["@weknow/gatsby-remark-twitter"]
-      }
-    }
   ],
 }
