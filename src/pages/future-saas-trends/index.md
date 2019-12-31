@@ -31,7 +31,7 @@ As evident from Hinge, we are slowly marching towards this future. I wouldn't be
 
 3. **Rise in usage-based Billing** - I'm taking this directly from Plaid CEO Zach Perret:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Platform (usage-based billing) is the new SaaS (licensed subscriptions)</p>&mdash; Zachary Perret (@zachperret) <a href="https://twitter.com/zachperret/status/1194504146134552578?ref_src=twsrc%5Etfw">November 13, 2019</a></blockquote>
+<blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Platform (usage-based billing) is the new SaaS (licensed subscriptions)</p>&mdash; Zachary Perret (@zachperret) <a href="https://twitter.com/zachperret/status/1194504146134552578?ref_src=twsrc%5Etfw">November 13, 2019</a></blockquote>
 
 As a customer, I should only have to pay for what I use, and shouldn't have to commit to pricey monthly or annual subscriptions.
 
