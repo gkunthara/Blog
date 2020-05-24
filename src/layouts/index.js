@@ -29,7 +29,7 @@ class Template extends React.Component {
             style={headerStyle}
           >
           Hi, I'm George Kunthara.
-          Currently, I work as a consultant for West Monroe Partners in Seattle. 
+          Currently, I work at Retool in San Francisco. 
           I graduated in May 2018 from Gonzaga University with a degree in Computer Science and a business minor in Entrepreneurial Leadership.
           </h1>
             <h1
