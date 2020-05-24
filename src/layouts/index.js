@@ -29,21 +29,12 @@ class Template extends React.Component {
             style={headerStyle}
           >
           Hi, I'm George Kunthara.
-          Currently, I work at Retool in San Francisco. 
-          I graduated in May 2018 from Gonzaga University with a degree in Computer Science and a business minor in Entrepreneurial Leadership.
+          Currently, I work at Retool in San Francisco. I'm into investing, startups, and sports. 
+          You can find my thoughts on these areas below!
           </h1>
             <h1
             style={headerStyle}
           >
-          I'm into investing, startups, and sports. 
-          You can find my thoughts on these areas below!
-          </h1>
-
-          <h1
-            style={headerStyle}
-          >
-          
-          </h1>
         </div>
         
 
