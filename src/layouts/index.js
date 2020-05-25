@@ -35,6 +35,7 @@ class Template extends React.Component {
             <h1
             style={headerStyle}
           >
+        </h1>
         </div>
         
 
